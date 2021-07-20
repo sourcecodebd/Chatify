@@ -1,7 +1,7 @@
 # Chatify
 
 ## Site-Link
-chatify-nafi.netlify.app
+https://chatify-nafi.netlify.app
 
 
 ## Author 
