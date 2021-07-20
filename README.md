@@ -13,7 +13,7 @@ A chatting application made with React as client-side, Express, Node as server-s
 
 # Chatify - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
 
-<img src="Images/Chatify-logo.png" align="left"
+<img src="Images/Chatify-logo.jpg" align="left"
 width="200" hspace="10" vspace="10">
 
 Unlike other services, Chatify is free and open source.  
