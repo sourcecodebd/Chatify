@@ -17,7 +17,7 @@ A chatting application made with React as client-side, Express, Node as server-s
 width="200" hspace="10" vspace="10">
 
 Unlike other services, Chatify is free and open source.  
-Chatify for Android is a companion app of [nafi.com]: (https://sourcecodebd.github.io/nafi.com/). You need a Chatify account or room first, which you are going to use in this app.
+Chatify for Android is a companion app of [nafi.com](https://sourcecodebd.github.io/nafi.com/). You need a Chatify account or room first, which you are going to use in this app.
 
 Chatify is available on the Google Play Store and APKPure.
 
