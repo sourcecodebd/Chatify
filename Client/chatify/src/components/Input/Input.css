@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  border-top: 2px solid orange;
+}
+
+.input {
+  border-radius: 10px;
+  padding: 5%;
+  width: 80%;
+  font-size: 1.2em;
+  background-color: darkcyan;
+}
+
+input:focus, textarea:focus, select:focus{
+  outline: none;
+}
+
+.sendButton {
+  border-radius: 10px;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: orange;
+  padding: 20px;
+  display: inline-block;
+  border: none;
+  width: 20%;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.sendButton:hover {
+  background: rgb(179, 122, 17);
+}

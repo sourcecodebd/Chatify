@@ -1,0 +1,30 @@
+Client:
+npx create-react-app chatify
+npm install --save react-router-dom socket.io-client react-scroll-to-bottom react-emoji query-string
+
+Server: 
+npm init -y
+npm install --save cors nodemon express socket.io
+
+Working Properly:
+------------------
+client-
+    "react-scroll-to-bottom": "^1.3.2",
+    "socket.io-client": "^2.2.0",
+
+server-
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^2.4.1"
+
+Not Working Properly:
+-----------------------
+client-
+    "react-scroll-to-bottom": "^4.1.0",
+    "socket.io-client": "^4.0.2",
+
+server
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.2"

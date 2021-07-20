@@ -1,0 +1,28 @@
+[0510/214559.730:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/030241.763:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/061657.224:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/062657.229:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/062657.229:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/062657.229:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/062657.229:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/063157.237:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/063322.527:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/064322.545:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/064322.546:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/064322.546:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/064322.546:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/064822.564:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/070322.568:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/071822.576:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/072702.001:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/073702.008:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/073702.009:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/073702.009:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/073702.009:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/074141.718:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0511/074141.719:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\390f2310-3990-43bb-b298-37a77509b043: The system cannot find the path specified. (0x3)
+[0511/091145.941:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/195407.982:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/203835.446:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0511/204105.810:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4b7adc64-a0b3-4ec9-a46e-d9eda7dd98f6: The system cannot find the path specified. (0x3)
+[0512/075331.467:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
